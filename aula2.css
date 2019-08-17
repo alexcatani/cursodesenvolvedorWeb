@@ -1,0 +1,31 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}   
+
+.container {
+    display: grid;
+    grid-template-areas: 'head head head' 
+                        'aside aside aside' 
+                        'footer footer footer';
+    grid-gap: 10px;
+    background-color: #2196F3;
+    height: 100vh;
+    width: 100%;
+}
+
+head {
+    grid-area: head;
+    background-color: aquamarine;
+}
+
+aside{
+    grid-area: aside;
+    background-color:yellow;
+}
+
+footer {
+    grid-area: footer;
+    background-color: blue;
+}
