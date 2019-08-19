@@ -8,3 +8,4 @@ Comando GIT:
   - Extenção marcadores de posição = Bookmarks
   - Extenção corretor JavaScript = Eslint
   - Extenção criar cod automáticos = JavaScript Snippet Pack
+  - Teste de alteração
