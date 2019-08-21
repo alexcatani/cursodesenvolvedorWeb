@@ -14,4 +14,4 @@ Configurações para instalação da github e sincronição.
     - Será criado todos os vinculos
     - Para adicionar a origem utilize o comando:
         git remote add origin "endereço do repositório"
-    
+   
