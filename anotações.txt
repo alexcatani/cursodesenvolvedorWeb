@@ -1,11 +1,3 @@
 Comando GIT:
-
-  - Para ver históricos dos commits = git shortlog
-  - Para criar chave ssh = ssh-keygen
-  - Extenção auto reload = Live Server
-  - Extenção icones tipo de arquivos = vscode-icon
-  - Extenção cores diferentes parenteses = Rainbow brackets
-  - Extenção marcadores de posição = Bookmarks
-  - Extenção corretor JavaScript = Eslint
-  - Extenção criar cod automáticos = JavaScript Snippet Pack
-  - Teste de alteração
+   - Para ver históricos dos commits = git shortlog
+   - Para criar chave ssh = ssh-keygen

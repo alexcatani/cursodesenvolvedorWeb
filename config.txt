@@ -1,17 +1,26 @@
 Configurações para instalação da github e sincronição.
  * Instalção termina GIT Bass:
     - Baixar e instale o GIT SCM to Windows.
+
  * Gerar chave SSH:
     - Utilize no teminal o comando : ssh-keygen
     - Vincular chave a conta GITHUB.
+
  * Clonar repositório github:
     - No terminal utilize o comando: 
         git clone "endereço do repositório"
-    -
+    
  * Para iniciar um repositório local do zero:
     - No terminal tentro da pasta destino utilize o comando:
         git init
     - Será criado todos os vinculos
     - Para adicionar a origem utilize o comando:
         git remote add origin "endereço do repositório"
-   
+
+ * Extenções:
+    - Extenção auto reload = Live Server
+    - Extenção icones tipo de arquivos = vscode-icon
+    - Extenção parenteses com cores diferentes  = Rainbow brackets
+    - Extenção marcadores de posição = Bookmarks
+    - Extenção corretor JavaScript = Eslint
+    - Extenção criar cod automáticos = JavaScript Snippet Pack
