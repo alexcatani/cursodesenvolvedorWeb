@@ -38,18 +38,46 @@ function teste1(num){
 // teste1(6)
 // teste1(8)
 
+//####
+
 // if/else
 // Utilizando If com Else
-const imprimirResultado = function(nota) {
-    if (nota >= 7) {
-        console.log('Aprovado!')
+// const imprimirResultado = function(nota) {
+//     if (nota >= 7) {
+//         console.log('Aprovado!')
+//     } else {
+//         console.log('Reprovado!')
+//     }
+// }
+
+// imprimirResultado(10)
+// imprimirResultado(4)
+// imprimirResultado('Epa!') //Como JS é uma linguagem fracamente tipada valida o resultado como falso
+
+
+Number.prototype.entre = function(inicio, fim ){
+    return this >= inicio && this <= fim
+}
+
+const imprimirResultado = function (nota) {
+    if (nota.entre(9, 10)) {
+        console.log('Quadro de Honra')
+    } else if (nota.entre(7, 8.99)) {
+        console.log('Aprovado')
+    } else if (nota.entre(4, 6.99)) {
+        console.log('Recuperação')
+    } else if (nota.entre(0, 3.99)){
+        console.log('Reprovado')
     } else {
-        console.log('Reprovado!')
+        console.log('Nota inválida')
     }
+
+    console.log('fim')
 }
 
 imprimirResultado(10)
-imprimirResultado(4)
-imprimirResultado('Epa!') //Como JS é uma linguagem fracamente tipada valida o resultado como falso
+imprimirResultado(2.5)
+imprimirResultado(4.5)
+imprimirResultado(7.5)
 
-
+imprimirResultado(-1)
