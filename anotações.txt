@@ -1,3 +1,8 @@
 Comando GIT:
    - Para ver históricos dos commits = git shortlog
    - Para criar chave ssh = ssh-keygen
+
+JavaScrit com sqlite:
+   https://www.youtube.com/watch?v=OdLbs9_pq8Y
+   https://www.youtube.com/redirect?redir_token=KJvcTgKsd2077Bu_MS9QF4Blv0p8MTU2NzEzMDc0OUAxNTY3MDQ0MzQ5&q=http%3A%2F%2Fwww.4shared.com%2Fzip%2FouaaBHw_ba%2FTiPS_-_Comandos_SQLite.html&event=video_description&v=7znA5k7gJqQ
+
