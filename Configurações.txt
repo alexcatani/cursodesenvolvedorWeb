@@ -1,26 +1,49 @@
 Configurações para instalação da github e sincronição.
- * Instalção termina GIT Bass:
+ * Instalção termina GIT Bass:{
     - Baixar e instale o GIT SCM to Windows.
+	
+}
 
- * Gerar chave SSH:
+ * Gerar chave SSH: {
     - Utilize no teminal o comando : ssh-keygen
     - Vincular chave a conta GITHUB.
 
- * Clonar repositório github:
+}
+
+ * Clonar repositório github: {
     - No terminal utilize o comando: 
         git clone "endereço do repositório"
+		
+}
     
- * Para iniciar um repositório local do zero:
+ * Para iniciar um repositório local do zero: {
     - No terminal tentro da pasta destino utilize o comando:
         git init
     - Será criado todos os vinculos
     - Para adicionar a origem utilize o comando:
         git remote add origin "endereço do repositório"
+		
+}
 
- * Extenções:
+ * Extenções: {
     - Extenção auto reload = Live Server
     - Extenção icones tipo de arquivos = vscode-icon
     - Extenção parenteses com cores diferentes  = Rainbow brackets
     - Extenção marcadores de posição = Bookmarks
     - Extenção corretor JavaScript = Eslint
     - Extenção criar cod automáticos = JavaScript Snippet Pack
+
+}
+
+Comando GIT: {
+   - Para ver históricos dos commits = git shortlog
+   - Para criar chave ssh = ssh-keygen
+   
+}
+
+JavaScrit com sqlite: {
+   https://www.youtube.com/watch?v=OdLbs9_pq8Y
+   https://www.youtube.com/redirect?redir_token=KJvcTgKsd2077Bu_MS9QF4Blv0p8MTU2NzEzMDc0OUAxNTY3MDQ0MzQ5&q=http%3A%2F%2Fwww.4shared.com%2Fzip%2FouaaBHw_ba%2FTiPS_-_Comandos_SQLite.html&event=video_description&v=7znA5k7gJqQ
+
+}
+
