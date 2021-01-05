@@ -1,3 +1,28 @@
 Biblioteaca:
 
+	- Neuroplasticiodade: Capacidade do cerebro de aprender.
+	- Cliente: Quem utiliza um serviço, também conhecido como Client.
+	- Servidor: Quem oferece um serviço, também conhecido como Server.
+	- Responsabilidade de um sistema: {
+		* Client-side ou Apresentação ou Front-end: Onde ocorre a interação do cliente com o sistema.
+			> Canvas: Uma forma de apresentar uma ideía.
+		* Sever-side ou Back-end: State ou Estado, Lógica + Dados, onde ficam armazenados as informações do sistema e regas que seria como o sistema de se portar quando o cliente fizer alguam ação.
+		* Inputs ou Entradas: Coleta as entradas que o cliente encaminha para o sistema e encaminha as informações para acamada de estado.
+		* Networking ou Conexão: É responsável por sincronizar o sistema	
+	}
+	- PM2: Gerenciador de Processos. Se algum processo cair ele reinicia.
+	- Redis: Compartilha o estado do sistema e o estado do Sockt.
+	- Separation of concerns: separação de preocupações. Modularizar aplicação de forma que cada módulo esteja focado em resolver apenas um único problema.
+	- 
+	
+	- Sockt:
+	- OverLap:
+	
+	- Service:msc
+	
+	atlas@123
+	
+
+	
+
 	
