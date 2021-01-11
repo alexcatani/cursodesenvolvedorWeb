@@ -13,8 +13,10 @@ Biblioteaca:
 	- PM2: Gerenciador de Processos. Se algum processo cair ele reinicia.
 	- Redis: Compartilha o estado do sistema e o estado do Sockt.
 	- Separation of concerns: separação de preocupações. Modularizar aplicação de forma que cada módulo esteja focado em resolver apenas um único problema.
+	- Node: Um interpretador back-end
+	- Padrão Layers: Divição do sistema em sistema
 	- 
-	
+
 	- Sockt:
 	- OverLap:
 	
