@@ -1,3 +1,13 @@
+Configurar ambiente:{
+   * Instalar o Node.js
+   * Instalar o VScode
+   * Instalar a Extenção Code Runner
+   * Instalar a Extenção ESlint
+   * Executar o NPM init no projeto
+   * Executar o Next.js no projeto 
+   * Executar o React.js no projeto
+}
+
 Configurações para instalação da github e sincronição.
  * Instalção termina GIT Bass:{
     - Baixar e instale o GIT SCM to Windows.
